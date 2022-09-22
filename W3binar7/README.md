@@ -13,5 +13,11 @@ In this repo you'll find:
     -metadata script for creating JSON files from CSV
 
 
+IPFS locations
+Metadata:
+    ipfs://QmUaZRENUcQV9Uq8kAy4JCMQTi6x6DLQxLb4JT8oTzhwim/
+Images:
+    ipfs://QmZQQ91y4RnbXqjovVbmhhw7RTcYMJ6YLhpFn5qwuyTBFq/
+
 Further reading on NFTs: https://www.redvelvet.tech/post/nft
 
