@@ -12,3 +12,6 @@ In this repo you'll find:
     -zip folder of images
     -metadata script for creating JSON files from CSV
 
+
+Further reading on NFTs: https://www.redvelvet.tech/post/nft
+
