@@ -1,0 +1,15 @@
+{
+  "name": "18",
+  "description": "Hack3rs Club W3binar Series Episode 3. ERC-721 NFT Demo.",
+  "image": "ipfs://QmZQQ91y4RnbXqjovVbmhhw7RTcYMJ6YLhpFn5qwuyTBFq/18.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Twist"
+    },
+    {
+      "trait_type": "Color",
+      "value": "Blue"
+    }
+  ]
+}

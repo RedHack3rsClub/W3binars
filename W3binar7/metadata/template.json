@@ -1,0 +1,24 @@
+{
+    "name": "? #var_name",
+    "description": "???",
+    "image": "ipfs://HASH1/var_image.png",
+    "animation_url": "ipfs://HASH2/var_animation.mp4",
+    "attributes": [
+      {
+        "trait_type": "Compound",
+        "value": "var_compound"
+      },
+      {
+        "trait_type": "Innovation",
+        "value": "var_innovation"
+      },
+      {
+        "trait_type": "Compatibility",
+        "value": "var_compatibility"
+      },
+      {
+        "trait_type": "Variation",
+        "value": "var_variation"
+      }
+    ]
+  }
