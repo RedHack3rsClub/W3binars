@@ -1534,9 +1534,9 @@ contract NFT_ERC721 is ERC721, Ownable {
     // internal
     function _baseURI() internal view virtual override returns (string memory) {
         return baseURI;
-    }
+    } 
 
-    // public
+    // public.
     function whitelistMint(bytes32[] calldata _merkleProof) public payable {
         uint256 supply = _tokenSupply.current();
         require(whitelistActive, "Whitelist mint is not active");

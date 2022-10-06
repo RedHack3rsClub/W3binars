@@ -642,7 +642,7 @@ library Address {
     /**
      * @dev Same as {xref-Address-functionCall-address-bytes-string-}[`functionCall`],
      * but performing a static call.
-     *
+     * 
      * _Available since v3.3._
      */
     function functionStaticCall(
@@ -658,7 +658,7 @@ library Address {
 
     /**
      * @dev Same as {xref-Address-functionCall-address-bytes-}[`functionCall`],
-     * but performing a delegate call.
+     * but performing a delegate call
      *
      * _Available since v3.4._
      */

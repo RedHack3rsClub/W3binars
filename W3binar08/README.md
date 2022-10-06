@@ -13,7 +13,7 @@ In this repo you'll find:
     -metadata script for creating JSON files from CSV
 
 
-IPFS locations
+IPFS locations.
 Metadata:
     ipfs://QmUaZRENUcQV9Uq8kAy4JCMQTi6x6DLQxLb4JT8oTzhwim/
 Images:
